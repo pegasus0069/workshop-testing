@@ -16,5 +16,5 @@
          - uses: akhileshns/heroku-deploy@v3.8.8
            with:
              heroku_api_key: ${{secrets.HEROKU_API_KEY}}
-             heroku_app_name: "YOUR APP’S NAME"
-             heroku_email: "YOUR EMAIL"
+             heroku_app_name: "workshop-testbd"
+             heroku_email: "arnoyk123@gmail.com"
